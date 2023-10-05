@@ -1,7 +1,7 @@
 /***    
  *   hw 20231005
- *   @author: 1122099
- *   @name: Wen-Pinn Fang
+ *   @author: 1122036
+ *   @name: 劉蕙毓
 ***/
 #include <iostream>
 using namespace std;
